@@ -1,0 +1,9 @@
+c:\users\emon\documents\visual studio 2017\Projects\air\air\obj\Debug\air.admin_login.resources
+c:\users\emon\documents\visual studio 2017\Projects\air\air\obj\Debug\air.Admin_Option.resources
+c:\users\emon\documents\visual studio 2017\Projects\air\air\obj\Debug\air.Form1.resources
+c:\users\emon\documents\visual studio 2017\Projects\air\air\obj\Debug\air.Properties.Resources.resources
+c:\users\emon\documents\visual studio 2017\Projects\air\air\obj\Debug\air.csproj.GenerateResource.Cache
+c:\users\emon\documents\visual studio 2017\Projects\air\air\bin\Debug\air.exe
+c:\users\emon\documents\visual studio 2017\Projects\air\air\bin\Debug\air.pdb
+c:\users\emon\documents\visual studio 2017\Projects\air\air\obj\Debug\air.exe
+c:\users\emon\documents\visual studio 2017\Projects\air\air\obj\Debug\air.pdb
